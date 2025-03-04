@@ -1,5 +1,22 @@
 {
-  "global": {},
+  "global": {
+    "sm": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "blue": {
+      "value": "#3432e7",
+      "type": "color"
+    },
+    "blueopacity": {
+      "value": "rgba(73,131,255,0.5)",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
