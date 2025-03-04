@@ -15,6 +15,10 @@
     "blueopacity": {
       "value": "rgba(73,131,255,0.5)",
       "type": "color"
+    },
+    "blueopacity-copy": {
+      "value": "rgba(247,6,93,0.5)",
+      "type": "color"
     }
   },
   "$themes": [],
