@@ -19,6 +19,10 @@
     "blueopacity-copy": {
       "value": "rgba(247,6,93,0.5)",
       "type": "color"
+    },
+    "space-lg": {
+      "value": "10",
+      "type": "spacing"
     }
   },
   "$themes": [],
