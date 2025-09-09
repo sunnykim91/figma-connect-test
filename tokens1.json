@@ -1,28 +1,28 @@
 {
   "global": {
     "sm": {
-      "value": "12",
-      "type": "sizing"
+      "$type": "sizing",
+      "$value": "12"
     },
     "lg": {
-      "value": "20",
-      "type": "sizing"
+      "$type": "sizing",
+      "$value": "20"
     },
     "blue": {
-      "value": "#c1c1f0",
-      "type": "color"
+      "$type": "color",
+      "$value": "#c1c1f0"
     },
     "blueopacity": {
-      "value": "rgba(73,131,255,0.5)",
-      "type": "color"
+      "$type": "color",
+      "$value": "rgba(73,131,255,0.5)"
     },
     "blueopacity-copy": {
-      "value": "rgba(247,6,93,0.5)",
-      "type": "color"
+      "$type": "color",
+      "$value": "rgba(247,6,93,0.5)"
     },
     "space-lg": {
-      "value": "10",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "10"
     }
   },
   "$themes": [],
